@@ -22,10 +22,13 @@ https://www.youtube.com/watch?v=BTJtTkoyprc&t=2570s
 ### Deploy Netlify
 https://www.youtube.com/watch?v=-Euov0WKuV8
 
-
 # Proyecto Deployado
 
 https://rad-seahorse-44112f.netlify.app/
+
+# API CONSUMIDA
+
+https://www.thecocktaildb.com/
 
 # Flujo del proyecto deployado
 
@@ -34,7 +37,6 @@ https://rad-seahorse-44112f.netlify.app/
 ### 2) EL SEGUNDO PASO ES SELECCIONAR LA CATEGORIA
 
 ### 3) EL ULTIMO PASO ES DAR CLIC EN BUSCAR BEBIDAS
-
 
 # Contacto
 jonathanes317@gmail.com
